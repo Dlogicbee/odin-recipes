@@ -1,0 +1,29 @@
+body {
+    background-color: navy;
+    color: white;
+    padding: 16px;
+    margin: 10px auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+} 
+
+.title {
+   background-color: skyblue;
+   color: black;
+   padding: 8px; 
+   font-size: 32px;
+   text-align: center;
+   margin-bottom: 5px;
+}
+
+.sub-tittle {
+    padding: 8px;
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+#swallows {
+    background-color: skyblue;
+    font-size: 16px;
+    padding: 8px;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color:green;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 16px;
+    margin: 8px;
+    font-size: 18px;
+}
+
+.amala {
+    background-color: yellow;
+    color: black;
+    padding-left: 180px;
+    font-size: 32px;
+}
+
+.sub-amala {
+    background-color: lightgreen;
+    font-size: 24px;
+    color: black;
+    padding: 8px;
+    margin-bottom: 5px;
+}
+
+.image {
+    padding-left: 70px;
+    margin-bottom: 2px;
+}
+
+.describe {
+    font-size: 28px;
+}
+
+.home {
+    font-size: 20px;
+    background-color: lightgreen;
+    padding: 15px;
+}
